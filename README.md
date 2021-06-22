@@ -1,0 +1,2 @@
+# HaskellMazeSolver
+Haskell Maze Solver
